@@ -21,5 +21,7 @@
     <string name="from_sdcard">从SD卡目录加载MP3</string>
     <string name="from_network">从网络加载MP3</string>
     <string name="current_MP3_path">当前播放MP3路径: </string>
+    <string name="artist">周星驰</string>
+    <string name="siger">歌手</string>
 
 </resources>

@@ -4,7 +4,7 @@
     android:layout_height="fill_parent"
     android:orientation="vertical"
     android:padding="5dp"
-    tools:context="${relativePackage}.${activityClass}" >
+     >
 
     <RadioGroup
         android:id="@+id/radio_group"
